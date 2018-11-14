@@ -14,3 +14,6 @@ NORMAL TEXt
 **this is a bold text**
 
 underscore as well: __hello__
+*this is italiced*
+---
+***
